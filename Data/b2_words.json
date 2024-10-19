@@ -1,0 +1,303 @@
+[
+    {
+      "word": "acknowledge",
+      "second_form": "acknowledged",
+      "third_form": "acknowledged",
+      "meaning": "kabul etmek, tanımak"
+    },
+    {
+      "word": "analyze",
+      "second_form": "analyzed",
+      "third_form": "analyzed",
+      "meaning": "analiz etmek"
+    },
+    {
+      "word": "anticipate",
+      "second_form": "anticipated",
+      "third_form": "anticipated",
+      "meaning": "beklemek, ummak"
+    },
+    {
+      "word": "assume",
+      "second_form": "assumed",
+      "third_form": "assumed",
+      "meaning": "farz etmek, varsaymak"
+    },
+    {
+      "word": "clarify",
+      "second_form": "clarified",
+      "third_form": "clarified",
+      "meaning": "açıklığa kavuşturmak"
+    },
+    {
+      "word": "compile",
+      "second_form": "compiled",
+      "third_form": "compiled",
+      "meaning": "derlemek, toplamak"
+    },
+    {
+      "word": "comply",
+      "second_form": "complied",
+      "third_form": "complied",
+      "meaning": "uymak, itaat etmek"
+    },
+    {
+      "word": "demonstrate",
+      "second_form": "demonstrated",
+      "third_form": "demonstrated",
+      "meaning": "göstermek, kanıtlamak"
+    },
+    {
+      "word": "enhance",
+      "second_form": "enhanced",
+      "third_form": "enhanced",
+      "meaning": "geliştirmek"
+    },
+    {
+      "word": "evaluate",
+      "second_form": "evaluated",
+      "third_form": "evaluated",
+      "meaning": "değerlendirmek"
+    },
+    {
+      "word": "formulate",
+      "second_form": "formulated",
+      "third_form": "formulated",
+      "meaning": "formüle etmek"
+    },
+    {
+      "word": "illustrate",
+      "second_form": "illustrated",
+      "third_form": "illustrated",
+      "meaning": "örneklemek, resimlemek"
+    },
+    {
+      "word": "indicate",
+      "second_form": "indicated",
+      "third_form": "indicated",
+      "meaning": "belirtmek"
+    },
+    {
+      "word": "justify",
+      "second_form": "justified",
+      "third_form": "justified",
+      "meaning": "haklı çıkarmak, doğrulamak"
+    },
+    {
+      "word": "modify",
+      "second_form": "modified",
+      "third_form": "modified",
+      "meaning": "değiştirmek"
+    },
+    {
+      "word": "negotiate",
+      "second_form": "negotiated",
+      "third_form": "negotiated",
+      "meaning": "müzakere etmek"
+    },
+    {
+      "word": "overcome",
+      "second_form": "overcame",
+      "third_form": "overcome",
+      "meaning": "üstesinden gelmek"
+    },
+    {
+      "word": "prioritize",
+      "second_form": "prioritized",
+      "third_form": "prioritized",
+      "meaning": "öncelik vermek"
+    },
+    {
+      "word": "sustain",
+      "second_form": "sustained",
+      "third_form": "sustained",
+      "meaning": "sürdürmek"
+    },
+    {
+      "word": "undertake",
+      "second_form": "undertook",
+      "third_form": "undertaken",
+      "meaning": "üstlenmek"
+    },
+    {
+      "word": "absorb",
+      "second_form": "absorbed",
+      "third_form": "absorbed",
+      "meaning": "emmek"
+    },
+    {
+      "word": "accelerate",
+      "second_form": "accelerated",
+      "third_form": "accelerated",
+      "meaning": "hızlandırmak"
+    },
+    {
+      "word": "administer",
+      "second_form": "administered",
+      "third_form": "administered",
+      "meaning": "yönetmek"
+    },
+    {
+      "word": "alleviate",
+      "second_form": "alleviated",
+      "third_form": "alleviated",
+      "meaning": "hafifletmek"
+    },
+    {
+      "word": "amend",
+      "second_form": "amended",
+      "third_form": "amended",
+      "meaning": "değiştirmek, düzeltmek"
+    },
+    {
+      "word": "articulate",
+      "second_form": "articulated",
+      "third_form": "articulated",
+      "meaning": "ifade etmek"
+    },
+    {
+      "word": "assign",
+      "second_form": "assigned",
+      "third_form": "assigned",
+      "meaning": "atamak, tahsis etmek"
+    },
+    {
+      "word": "attribute",
+      "second_form": "attributed",
+      "third_form": "attributed",
+      "meaning": "bağlamak"
+    },
+    {
+      "word": "authorize",
+      "second_form": "authorized",
+      "third_form": "authorized",
+      "meaning": "yetki vermek"
+    },
+    {
+      "word": "boost",
+      "second_form": "boosted",
+      "third_form": "boosted",
+      "meaning": "arttırmak"
+    },
+    {
+      "word": "compensate",
+      "second_form": "compensated",
+      "third_form": "compensated",
+      "meaning": "telafi etmek"
+    },
+    {
+      "word": "complement",
+      "second_form": "complemented",
+      "third_form": "complemented",
+      "meaning": "tamamlamak"
+    },
+    {
+      "word": "conform",
+      "second_form": "conformed",
+      "third_form": "conformed",
+      "meaning": "uyum sağlamak"
+    },
+    {
+      "word": "consolidate",
+      "second_form": "consolidated",
+      "third_form": "consolidated",
+      "meaning": "pekiştirmek"
+    },
+    {
+      "word": "contribute",
+      "second_form": "contributed",
+      "third_form": "contributed",
+      "meaning": "katkıda bulunmak"
+    },
+    {
+      "word": "coordinate",
+      "second_form": "coordinated",
+      "third_form": "coordinated",
+      "meaning": "koordine etmek"
+    },
+    {
+      "word": "cultivate",
+      "second_form": "cultivated",
+      "third_form": "cultivated",
+      "meaning": "yetiştirmek"
+    },
+    {
+      "word": "debate",
+      "second_form": "debated",
+      "third_form": "debated",
+      "meaning": "tartışmak"
+    },
+    {
+      "word": "dedicate",
+      "second_form": "dedicated",
+      "third_form": "dedicated",
+      "meaning": "adamak"
+    },
+    {
+      "word": "defer",
+      "second_form": "deferred",
+      "third_form": "deferred",
+      "meaning": "ertelemek"
+    },
+    {
+      "word": "devise",
+      "second_form": "devised",
+      "third_form": "devised",
+      "meaning": "tasarlamak"
+    },
+    {
+      "word": "dictate",
+      "second_form": "dictated",
+      "third_form": "dictated",
+      "meaning": "dikte etmek"
+    },
+    {
+      "word": "discriminate",
+      "second_form": "discriminated",
+      "third_form": "discriminated",
+      "meaning": "ayrım yapmak"
+    },
+    {
+      "word": "displace",
+      "second_form": "displaced",
+      "third_form": "displaced",
+      "meaning": "yerinden etmek"
+    },
+    {
+      "word": "divert",
+      "second_form": "diverted",
+      "third_form": "diverted",
+      "meaning": "başka yöne çevirmek"
+    },
+    {
+      "word": "elaborate",
+      "second_form": "elaborated",
+      "third_form": "elaborated",
+      "meaning": "detaylandırmak"
+    },
+    {
+      "word": "embrace",
+      "second_form": "embraced",
+      "third_form": "embraced",
+      "meaning": "kucaklamak"
+    },
+    {
+      "word": "empower",
+      "second_form": "empowered",
+      "third_form": "empowered",
+      "meaning": "güçlendirmek"
+    },
+    {
+      "word": "enforce",
+      "second_form": "enforced",
+      "third_form": "enforced",
+      "meaning": "uygulamak"
+    },
+    {
+      "word": "engage",
+      "second_form": "engaged",
+      "third_form":"engaged",
+      "meaning":"nişanlanmak"
+    }
+    ]
+  

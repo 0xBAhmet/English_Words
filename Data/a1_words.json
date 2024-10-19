@@ -1,0 +1,345 @@
+[
+    {
+      "word": "be",
+      "second_form": "was/were",
+      "third_form": "been",
+      "meaning": "olmak"
+    },
+    {
+      "word": "have",
+      "second_form": "had",
+      "third_form": "had",
+      "meaning": "sahip olmak"
+    },
+    {
+      "word": "do",
+      "second_form": "did",
+      "third_form": "done",
+      "meaning": "yapmak"
+    },
+    {
+      "word": "go",
+      "second_form": "went",
+      "third_form": "gone",
+      "meaning": "gitmek"
+    },
+    {
+      "word": "come",
+      "second_form": "came",
+      "third_form": "come",
+      "meaning": "gelmek"
+    },
+    {
+      "word": "see",
+      "second_form": "saw",
+      "third_form": "seen",
+      "meaning": "görmek"
+    },
+    {
+      "word": "eat",
+      "second_form": "ate",
+      "third_form": "eaten",
+      "meaning": "yemek"
+    },
+    {
+      "word": "drink",
+      "second_form": "drank",
+      "third_form": "drunk",
+      "meaning": "içmek"
+    },
+    {
+      "word": "read",
+      "second_form": "read",
+      "third_form": "read",
+      "meaning": "okumak"
+    },
+    {
+      "word": "write",
+      "second_form": "wrote",
+      "third_form": "written",
+      "meaning": "yazmak"
+    },
+    {
+      "word": "speak",
+      "second_form": "spoke",
+      "third_form": "spoken",
+      "meaning": "konuşmak"
+    },
+    {
+      "word": "run",
+      "second_form": "ran",
+      "third_form": "run",
+      "meaning": "koşmak"
+    },
+    {
+      "word": "sit",
+      "second_form": "sat",
+      "third_form": "sat",
+      "meaning": "oturmak"
+    },
+    {
+      "word": "stand",
+      "second_form": "stood",
+      "third_form": "stood",
+      "meaning": "ayakta durmak"
+    },
+    {
+      "word": "jump",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "zıplamak"
+    },
+    {
+      "word": "laugh",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "gülmek"
+    },
+    {
+      "word": "cry",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "ağlamak"
+    },
+    {
+      "word": "help",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "yardım etmek"
+    },
+    {
+      "word": "play",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "oynamak"
+    },
+    {
+      "word": "love",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "sevmek"
+    },
+    {
+      "word": "hate",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "nefret etmek"
+    },
+    {
+      "word": "walk",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "yürümek"
+    },
+    {
+      "word": "swim",
+      "second_form": "swam",
+      "third_form": "swum",
+      "meaning": "yüzmek"
+    },
+    {
+      "word": "teach",
+      "second_form": "taught",
+      "third_form": "taught",
+      "meaning": "öğretmek"
+    },
+    {
+      "word": "learn",
+      "second_form": "learned",
+      "third_form": "learned",
+      "meaning": "öğrenmek"
+    },
+    {
+      "word": "study",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "çalışmak (ders)"
+    },
+    {
+      "word": "watch",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "izlemek"
+    },
+    {
+      "word": "open",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "açmak"
+    },
+    {
+      "word": "close",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "kapatmak"
+    },
+    {
+      "word": "listen",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "dinlemek"
+    },
+    {
+      "word": "hear",
+      "second_form": "heard",
+      "third_form": "heard",
+      "meaning": "duymak"
+    },
+    {
+      "word": "buy",
+      "second_form": "bought",
+      "third_form": "bought",
+      "meaning": "satın almak"
+    },
+    {
+      "word": "sell",
+      "second_form": "sold",
+      "third_form": "sold",
+      "meaning": "satmak"
+    },
+    {
+      "word": "find",
+      "second_form": "found",
+      "third_form": "found",
+      "meaning": "bulmak"
+    },
+    {
+      "word": "lose",
+      "second_form": "lost",
+      "third_form": "lost",
+      "meaning": "kaybetmek"
+    },
+    {
+      "word": "drive",
+      "second_form": "drove",
+      "third_form": "driven",
+      "meaning": "sürmek"
+    },
+    {
+      "word": "give",
+      "second_form": "gave",
+      "third_form": "given",
+      "meaning": "vermek"
+    },
+    {
+      "word": "get",
+      "second_form": "got",
+      "third_form": "gotten",
+      "meaning": "almak"
+    },
+    {
+      "word": "make",
+      "second_form": "made",
+      "third_form": "made",
+      "meaning": "yapmak"
+    },
+    {
+      "word": "build",
+      "second_form": "built",
+      "third_form": "built",
+      "meaning": "inşa etmek"
+    },
+    {
+      "word": "begin",
+      "second_form": "began",
+      "third_form": "begun",
+      "meaning": "başlamak"
+    },
+    {
+      "word": "finish",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "bitirmek"
+    },
+    {
+      "word": "choose",
+      "second_form": "chose",
+      "third_form": "chosen",
+      "meaning": "seçmek"
+    },
+    {
+      "word": "sleep",
+      "second_form": "slept",
+      "third_form": "slept",
+      "meaning": "uyumak"
+    },
+    {
+      "word": "wake",
+      "second_form": "woke",
+      "third_form": "woken",
+      "meaning": "uyanmak"
+    },
+    {
+      "word": "sing",
+      "second_form": "sang",
+      "third_form": "sung",
+      "meaning": "şarkı söylemek"
+    },
+    {
+      "word": "dance",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "dans etmek"
+    },
+    {
+      "word": "clean",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "temizlemek"
+    },
+    {
+      "word": "cook",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "yemek pişirmek"
+    },
+    {
+      "word": "draw",
+      "second_form": "drew",
+      "third_form": "drawn",
+      "meaning": "çizmek"
+    },
+    {
+      "word": "paint",
+      "second_form": "-",
+      "third_form": "-",
+      "meaning": "boyamak"
+    },
+    {
+      "word": "cut",
+      "second_form": "cut",
+      "third_form": "cut",
+      "meaning": "kesmek"
+    },
+    {
+      "word": "hit",
+      "second_form": "hit",
+      "third_form": "hit",
+      "meaning": "vurmak"
+    },
+    {
+      "word": "throw",
+      "second_form": "threw",
+      "third_form": "thrown",
+      "meaning": "atmak"
+    },
+    {
+      "word": "catch",
+      "second_form": "caught",
+      "third_form": "caught",
+      "meaning": "yakalamak"
+    },
+    {
+      "word": "fly",
+      "second_form": "flew",
+      "third_form": "flown",
+      "meaning": "uçmak"
+    },
+    {
+      "word": "send",
+      "second_form": "sent",
+      "third_form": "sent",
+      "meaning": "göndermek"
+    }
+  ]
+  
